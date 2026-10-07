@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <meta content="LapuGo Travel &amp; Tours — Lakaw Ta, Go Beyond!" name="description"/>
+  <title>
+   Booking &amp; Inquiry | LapuGo Travel &amp; Tours
+  </title>
+  <link href="assets/css/style.css" rel="stylesheet"/>
+ </head>
+ <body data-page="booking">
+  <header id="site-header">
+  </header>
+  <main>
+   <section class="page-hero">
+    <div class="container">
+     <span class="eyebrow">
+      Booking / inquiry
+     </span>
+     <h1>
+      Let’s plan your lakaw.
+     </h1>
+     <p>
+      Send your preferred package, dates, group size, and travel details. This prototype saves your inquiry locally in the browser.
+     </p>
+    </div>
+   </section>
+   <section>
+    <div class="container">
+     <div class="form-card">
+      <div class="notice" style="margin-bottom:22px">
+       This is a front-end prototype. Submitting the form does not process payment or confirm a reservation.
+      </div>
+      <form id="booking-form">
+       <div class="form-grid">
+        <div class="field">
+         <label>
+          FULL NAME *
+         </label>
+         <input name="name" placeholder="Your name" required=""/>
+        </div>
+        <div class="field">
+         <label>
+          EMAIL *
+         </label>
+         <input name="email" placeholder="you@example.com" required="" type="email"/>
+        </div>
+        <div class="field">
+         <label>
+          PHONE
+         </label>
+         <input name="phone" placeholder="09XX XXX XXXX"/>
+        </div>
+        <div class="field">
+         <label>
+          TRAVEL DATE *
+         </label>
+         <input name="date" required="" type="date"/>
+        </div>
+        <div class="field">
+         <label>
+          PACKAGE
+         </label>
+         <input id="package-name" name="package" placeholder="Choose a package"/>
+        </div>
+        <div class="field">
+         <label>
+          DESTINATION
+         </label>
+         <input id="destination-name" name="destination" placeholder="Optional destination"/>
+        </div>
+        <div class="field">
+         <label>
+          GUESTS *
+         </label>
+         <input min="1" name="guests" required="" type="number" value="2"/>
+        </div>
+        <div class="field">
+         <label>
+          TOUR TYPE
+         </label>
+         <select name="tourType">
+          <option>
+           Shared tour
+          </option>
+          <option>
+           Private tour
+          </option>
+          <option>
+           Not sure yet
+          </option>
+         </select>
+        </div>
+        <div class="field full">
+         <label>
+          MESSAGE / REQUESTS
+         </label>
+         <textarea name="message" placeholder="Tell us about your preferred pickup, activities, or special requests." rows="6"></textarea>
+        </div>
+        <div class="full">
+         <button class="btn btn-primary" type="submit">
+          Submit inquiry
+         </button>
+        </div>
+       </div>
+      </form>
+     </div>
+    </div>
+   </section>
+  </main>
+  <footer id="site-footer">
+  </footer>
+  <div class="toast">
+  </div>
+  <script src="assets/js/app.js">
+  </script>
+ </body>
+</html>
+

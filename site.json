@@ -1,0 +1,19 @@
+{
+    "brand": {
+        "name": "LapuGo Travel & Tours",
+        "tagline": "Lakaw Ta, Go Beyond!",
+        "colors": {
+            "ink": "#121212",
+            "light": "#F0F1F2",
+            "sky": "#70A6C1",
+            "blue": "#315594",
+            "navy": "#2F3675"
+        }
+    },
+    "contact": {
+        "email": "hello@lapugotravelandtours.com",
+        "phone": "+63 9XX XXX XXXX",
+        "location": "Cebu, Philippines",
+        "hours": "Monday–Saturday · 8:00 AM–6:00 PM"
+    }
+}

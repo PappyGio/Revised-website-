@@ -1,0 +1,164 @@
+[
+    {
+        "id": "oslob-moalboal",
+        "title": "Cebu: Oslob Whale Sharks, Tumalog Falls & Moalboal Sardines",
+        "price": 6325,
+        "duration": "1 day",
+        "tag": "Bucket-list Cebu",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Whale%20shark%20in%20Oslob%2C%20Cebu%2001.jpg",
+        "gallery": [
+            {
+                "title": "Oslob whale sharks",
+                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Whale%20shark%20in%20Oslob%2C%20Cebu%2002.jpg"
+            },
+            {
+                "title": "Tumalog Falls",
+                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tumalog%20Falls%20in%20Oslob%2C%20Cebu%2005.jpg"
+            },
+            {
+                "title": "Moalboal sardine run",
+                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sardine%20run%20over%20seafloor%20in%20Moalboal%2001.jpg"
+            }
+        ],
+        "description": "Swim with whale sharks in Oslob, cool off under the Tumalog waterfalls, then snorkel through millions of sardines and sea turtles in Moalboal — three of Cebu’s bucket-list stops in one stress-free day.",
+        "highlights": [
+            "Snorkel beside whale sharks in Oslob",
+            "See the misty cascades of Tumalog Falls",
+            "Experience the Moalboal sardine run and sea turtles",
+            "Air-conditioned travel with hotel pickup",
+            "Entrance fees, snorkel gear, breakfast, lunch and bottled water included"
+        ],
+        "itinerary": [
+            [
+                "Car",
+                "3 hours"
+            ],
+            [
+                "Oslob Breakfast",
+                "30 minutes"
+            ],
+            [
+                "Oslob Whale watching",
+                "30 minutes"
+            ],
+            [
+                "Car",
+                "20 minutes"
+            ],
+            [
+                "Tumalog Falls Sightseeing",
+                "30 minutes"
+            ],
+            [
+                "Car",
+                "1.5 hours"
+            ],
+            [
+                "Moalboal Lunch",
+                "30 minutes"
+            ],
+            [
+                "Moalboal Snorkeling",
+                "30 minutes"
+            ],
+            [
+                "Car",
+                "3 hours"
+            ]
+        ],
+        "includes": [
+            "Hotel pickup and drop-off in Cebu, Mactan and Lapu-Lapu areas (shared option)",
+            "Hotel pickup and drop-off in Cebu, Mactan, Lapu-Lapu, Moalboal, Badian and Oslob areas (private option)",
+            "Whale shark watching, Tumalog Falls, Moalboal entrance and government fees",
+            "Snorkeling gear (mask and life jacket)",
+            "Filipino breakfast and lunch",
+            "Whale shark swimming experience",
+            "Tumalog Falls tour",
+            "Moalboal sardines and turtles snorkeling",
+            "GoPro / underwater camera rental available as add-on"
+        ],
+        "excludes": [
+            "Personal expenses",
+            "Gratuities",
+            "Travel insurance"
+        ],
+        "dropoffs": "Mactan, Talisay, Talamban, Cordova, Oslob, Apas, Maribago, Lahug, Moalboal, North Escario Street, Banilad, Badian, Capitol Site, Mandaue, Lapu-Lapu, Sanciangko Street, Cebu City"
+    },
+    {
+        "id": "three-island",
+        "title": "Three-Island Tour Package",
+        "price": 9075,
+        "duration": "1 day · Private tour",
+        "tag": "Island hopping",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Vicente%20Marine%20Sanctuary%20RestStop.jpg",
+        "gallery": [
+            {
+                "title": "San Vicente Marine Sanctuary",
+                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Vicente%20Marine%20Sanctuary%20Entrance.jpg"
+            },
+            {
+                "title": "Hilutungan sunset",
+                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunset%20over%20Hilotangan.JPG"
+            },
+            {
+                "title": "Cebu island scenery",
+                "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hilantagaan%20Island%2C%20Santa%20Fe%20seen%20from%20the%20south.jpg"
+            }
+        ],
+        "description": "Experience Cebu’s tropical beauty with a three-island tour to Sulpa, San Vicente, and Hilutungan—or Caohagan, depending on the tide. Snorkel in vibrant waters, explore tranquil mangroves, and relax on peaceful island beaches.",
+        "highlights": [
+            "Marine sanctuary snorkeling",
+            "Hilutungan or Caohagan depending on tide",
+            "Sulpa Island stop",
+            "San Vicente Island stop",
+            "Private tour flexibility"
+        ],
+        "itinerary": [
+            [
+                "Hotel pickup",
+                "8:00–8:30 AM"
+            ],
+            [
+                "Depart Maribago Wharf",
+                "9:00 AM"
+            ],
+            [
+                "Hilutungan / Caohagan",
+                "9:15 AM"
+            ],
+            [
+                "Transfer to Sulpa Island",
+                "11:00 AM"
+            ],
+            [
+                "San Vicente Island",
+                "2:00 PM"
+            ],
+            [
+                "Return to Maribago Wharf",
+                "4:00 PM"
+            ],
+            [
+                "Hotel arrival",
+                "5:00 PM"
+            ]
+        ],
+        "includes": [
+            "Marina-registered tourist boat (medium or large)",
+            "BBQ lunch: chicken, pork, shrimp, hanging rice, fruits, water and soda",
+            "Pickup and drop-off within Mactan Island",
+            "Guide",
+            "All island entrance and environmental fees",
+            "Snorkel set",
+            "Towel",
+            "Life vest",
+            "GoPro use subject to availability",
+            "Additional assistance for groups of 5+"
+        ],
+        "excludes": [
+            "Mandaue/Cebu City hotel transfer surcharge of ₱1,000",
+            "Personal expenses"
+        ],
+        "dropoffs": "Mactan Island; Mandaue and Cebu City transfers available with additional fee"
+    }
+]

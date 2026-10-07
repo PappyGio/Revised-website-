@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Oslob",
+        "type": "Marine Adventure",
+        "desc": "A southern Cebu stop known for whale shark encounters and access to Tumalog Falls.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Whale%20shark%20in%20Oslob%2C%20Cebu%20003.jpg"
+    },
+    {
+        "name": "Tumalog Falls",
+        "type": "Nature",
+        "desc": "A dramatic jungle waterfall near Oslob with broad limestone cascades and cool waters.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tumalog%20Falls%20in%20Oslob%2C%20Cebu%2001.jpg"
+    },
+    {
+        "name": "Moalboal",
+        "type": "Marine Adventure",
+        "desc": "Home to the famous sardine run and a popular snorkeling experience along Panagsama Beach.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sardine%20run%20over%20seafloor%20in%20Moalboal%2004.jpg"
+    },
+    {
+        "name": "San Vicente Marine Sanctuary",
+        "type": "Island & Marine",
+        "desc": "An Olango Island marine sanctuary featured in the LapuGo island-hopping itinerary.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Vicente%20Marine%20Sanctuary%20Entrance.jpg"
+    },
+    {
+        "name": "Hilutungan",
+        "type": "Island Adventure",
+        "desc": "A protected marine sanctuary stop used in the three-island itinerary when tide conditions allow.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunset%20over%20Hilotangan.JPG"
+    },
+    {
+        "name": "Caohagan",
+        "type": "Island Adventure",
+        "desc": "A peaceful island option on the three-island tour, with docking dependent on high tide.",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hilantagaan%20Island%2C%20Santa%20Fe%20seen%20from%20the%20south.jpg"
+    }
+]
